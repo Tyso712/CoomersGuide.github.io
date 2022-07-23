@@ -22,6 +22,6 @@ Sexy: The potion's contents begin to shake and swirl within its confines; a visc
 Boring: You sit.
 Sexy: Your plump cheeks are encased in the plush cushioning as you spread your legs and rest one upon the other; your genitals hot as they rise from above the fabric of the chair, steamy as the cool air blows upon them.
  
-Boring: ${Enter a boring sentence to turn sexy...}
+Boring: She yawns and stretches,
 Sexy:
 ```
